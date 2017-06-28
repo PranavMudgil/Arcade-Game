@@ -1,0 +1,22 @@
+body {
+	background-image : url(wallpaper.jpg);
+	background-size : cover;
+    text-align : center;
+	text-shadow : 5px 5px 4px #000;
+}
+
+
+h2 {
+	
+	font-family : comic sans ms;
+	font-size : 50px;
+	color : white;
+}
+
+
+#score_ {
+  font-size : 40px;	
+  color : white;
+  font-family : comic sans ms;
+}
+
